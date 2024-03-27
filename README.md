@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionate backend developer from Earth!</h3>
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/GitHub%20Mascot%20Pixel.gif" alt="Coding" width=200 height=200 align="right">
+<img src="https://github.com/ImagINN/ImagINN/blob/main/GitHub%20Mascot%20Pixel.gif" alt="Coding" width=200 height=200 align="right">
 
 - 🔭 I’m currently working on **Asp.Net Core**
 
