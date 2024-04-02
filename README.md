@@ -60,3 +60,6 @@
 </div>
 
 ###
+
+![Snake Animation](https://raw.githubusercontent.com/ImagINN/ImagINN/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake Animation](https://raw.githubusercontent.com/ImagINN/ImagINN/output/github-contribution-grid-snake.svg#gh-light-mode-only)
