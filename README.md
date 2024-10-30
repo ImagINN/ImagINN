@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **WEB/SOAP/REST-API**
 
-- 📫 How to reach me **muhammed.gokhan55@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/gokhansal/**
 
 - ⚡ Fun fact **Every moment tells a story. You just need to listen.**
 
