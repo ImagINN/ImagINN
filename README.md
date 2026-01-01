@@ -1,7 +1,9 @@
 <div align="center">
   <a href="https://github.com/ImagINN">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=5d00ff&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%e2%9c%a8+Hi+%f0%9f%91%8b+I'm+Gökhan+%e2%9c%a8;%f0%9f%93%b1+I'm+a+software+developer+%f0%9f%92%bb;%e2%9c%a8+Welcome+to+my+profile+%f0%9f%91%80"
-      alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=5d00ff&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%e2%9c%a8+Hi+%f0%9f%91%8b+I'm+G%C3%B6khan+%e2%9c%a8%3B%f0%9f%93%b1+I'm+a+software+developer+%f0%9f%92%bb%3B%e2%9c%a8+Welcome+to+my+profile+%f0%9f%91%80"
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
@@ -11,7 +13,7 @@
 <img src="https://github.com/ImagINN/ImagINN/blob/main/GitHub%20Mascot%20Pixel.gif" alt="Coding" width="200" height="200" align="left">
 
 <div align="center">
-    🔭 I’m currently working on <b>React Native</b><br>
+    🔭 I’m currently working on <b>Data Science</b><br>
     🌱 I’m currently learning <b>Swift</b><br>
     💬 Ask me about <b>Mobile Development</b><br>
     📫 How to reach me <b><a href="http://www.gokhansal.com">www.gokhansal.com</a></b><br>
