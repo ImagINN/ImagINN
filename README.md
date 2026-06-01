@@ -13,7 +13,7 @@
 <img src="https://github.com/ImagINN/ImagINN/blob/main/GitHub%20Mascot%20Pixel.gif" alt="Coding" width="200" height="200" align="left">
 
 <div align="center">
-    🔭 I’m currently working on <b>Data Science</b><br>
+    🔭 I’m currently working on <b>Mobile Programming</b><br>
     🌱 I’m currently learning <b>Swift</b><br>
     💬 Ask me about <b>Mobile Development</b><br>
     📫 How to reach me <b><a href="http://www.gokhansal.com">www.gokhansal.com</a></b><br>
