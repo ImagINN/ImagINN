@@ -14,7 +14,6 @@
 
 <div align="center">
     🔭 I’m currently working on <b>Mobile Programming</b><br>
-    🌱 I’m currently learning <b>Swift</b><br>
     💬 Ask me about <b>Mobile Development</b><br>
     📫 How to reach me <b><a href="http://www.gokhansal.com">www.gokhansal.com</a></b><br>
     ⚡ Fun fact <b>Every moment tells a story. You just need to listen.</b>
